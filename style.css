@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: paleturquoise;
+    text-align: center;
+    margin: 50px;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
+input, button {
+    margin: 10px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px 15px;
+}
+
+button:hover {
+    background-color: #218838;
+}
