@@ -7,12 +7,6 @@ Contribute and customize. Happy calculating! 🎓✨
 
 ---
 
-## 🔗 Link
-
-[SGPA-Calculator/index.html](SGPA-Calculator/index.html)
-
----
-
 ## 📋 How to Use
 
 - **Input:** Enter the number of subjects.
