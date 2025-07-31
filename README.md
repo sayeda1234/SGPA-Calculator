@@ -7,16 +7,23 @@ Contribute and customize. Happy calculating! 🎓✨
 
 ---
 
-# Link
-SGPA-Calculator
+## 🔗 Link
 
-# How to Use
-Input : Enter The Number of Subjects.
-        Enter the Grade points and Credit For Each Subject.
-Calculate SGPA: Click calculate to get your SGPA instantly.
-Track Progress: Effortlessly monitor your VTU academic performance.
+[SGPA-Calculator/index.html](SGPA-Calculator/index.html)
 
-# Features
-Sleek Interface: User-friendly design for seamless experience.
-Instant Results: Get accurate SGPA instantly after input.
-Responsive Design: Accessible on various devices.
+---
+
+## 📋 How to Use
+
+- **Input:** Enter the number of subjects.
+- **Grades & Credits:** Enter the grade points and credit for each subject.
+- **Calculate SGPA:** Click the calculate button to get your SGPA instantly.
+- **Track Progress:** Effortlessly monitor your VTU academic performance.
+
+---
+
+## ✨ Features
+
+- **Sleek Interface:** User-friendly design for seamless experience.
+- **Instant Results:** Get accurate SGPA instantly after input.
+- **Responsive Design:** Accessible on various devices.
